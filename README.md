@@ -1103,4 +1103,8 @@ Indicadores monitorados:
 
 <img width="1470" height="764" alt="Captura de Tela 2026-11-13 às 22 51 11" src="https://github.com/user-attachments/assets/3b46a5b5-79b2-4e0e-8084-0497ed0251de" />
 
+<img width="1470" height="764" alt="Captura de Tela 2026-11-13 às 22 51 22" src="https://github.com/user-attachments/assets/346572f7-04e8-40f8-a8fc-c58b89fb1039" />
+
+<img width="1470" height="764" alt="Captura de Tela 2026-11-13 às 22 51 29" src="https://github.com/user-attachments/assets/a3565d23-a4f0-4136-9b42-5b0780ccd57b" />
+
 ---
