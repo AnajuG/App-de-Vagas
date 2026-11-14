@@ -7,7 +7,7 @@ Seu assistente de Processos Seletivos com IA Conversacional
 
 Link da aplicação publicada:
 
-[INSERIR_URL_DA_APLICACAO]
+(https://vaga-spotlight-tracker.lovable.app)
 
 ---
 
@@ -1087,14 +1087,6 @@ O MVP será considerado validado se os usuários conseguirem:
 
 ---
 
-## Aplicação Publicada
-
-Endereço:
-
-[INSERIR_URL_DA_APLICACAO]
-
----
-
 # Resultados Esperados
 
 Indicadores monitorados:
@@ -1104,5 +1096,11 @@ Indicadores monitorados:
 - Atualizações realizadas.
 - Uso do resumo da empresa.
 - Uso das dicas de entrevista.
+
+---
+
+# **App Funcionando**
+
+<img width="1470" height="764" alt="Captura de Tela 2026-11-13 às 22 51 11" src="https://github.com/user-attachments/assets/3b46a5b5-79b2-4e0e-8084-0497ed0251de" />
 
 ---
