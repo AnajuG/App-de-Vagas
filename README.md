@@ -1,7 +1,7 @@
 # App-de-Vagas
-# TalentFlow AI
+# Rumo
 
-Assistente de Processos Seletivos com IA Conversacional
+Seu assistente de Processos Seletivos com IA Conversacional
 
 ## Aplicação
 
